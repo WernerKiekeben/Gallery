@@ -1,0 +1,1 @@
+Example of photo gallery with JavaScript, CSS and lightbox.
